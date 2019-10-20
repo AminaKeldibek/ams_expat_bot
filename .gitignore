@@ -1,0 +1,5 @@
+chatbot/settings.py
+.DS_Store
+*__pycache__
+db.sqlite3
+ngrok

@@ -1,0 +1,3 @@
+curl "https://api.telegram.org/bot958962997:AAGv-0Nhyusr6ZP4EHOKuk2ZgG27cxzMWv8/setWebHook?url=https://1230f613.ngrok.io/tg_bot/"
+
+curl "https://api.telegram.org/bot958962997:AAGv-0Nhyusr6ZP4EHOKuk2ZgG27cxzMWv8/getWebhookInfo"
